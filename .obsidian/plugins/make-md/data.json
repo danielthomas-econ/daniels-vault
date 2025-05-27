@@ -71,11 +71,9 @@
     "//Coding/Coding/Python/Coding/Python/Machine Learning",
     "//College work/College work/Mathematics/College work/Mathematics/Calculus/College work/Mathematics/Calculus/Differentiation/College work/Mathematics/Calculus/Differentiation/Partial differentiation",
     "//linear_alg",
-    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Linear transformations",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Vector Spaces",
     "//Coding/Coding/Julia",
     "//College work",
-    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Vector spaces",
     "//College work/College work/Entrance Prep/College work/Entrance Prep/ISI MSQE",
     "//College work/College work/Macroeconomics/College work/Macroeconomics/Keynesian macroeconomics/College work/Macroeconomics/Keynesian macroeconomics/IS-LM model",
     "//College work/College work/Entrance Prep/College work/Entrance Prep/ISI Tomato",
@@ -83,7 +81,9 @@
     "//College work/College work/Macroeconomics/College work/Macroeconomics/Classical macroeconomics",
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Multivariable optimization",
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Multivariable functions",
-    "//College work/College work/Statistics for Economics"
+    "//College work/College work/Mathematics",
+    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra",
+    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Systems of linear equations"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",

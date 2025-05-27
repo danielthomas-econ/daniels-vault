@@ -6,6 +6,7 @@ tags:
 ---
 %% Begin Waypoint %%
 - **[[Linear transformations]]**
+- **[[Systems of linear equations]]**
 - **[[Vector spaces]]**
 
 %% End Waypoint %%

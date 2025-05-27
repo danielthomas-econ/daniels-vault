@@ -11,12 +11,14 @@
             "id": "e25d2d9d8ec1291f",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "College work/Statistics for Economics/Inferences based on two samples"
+                "file": "College work/Mathematics/Linear Algebra/Systems of linear equations/Row space of a matrix.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Inferences based on two samples"
+              "title": "Row space of a matrix"
             }
           },
           {
@@ -49,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College work/Statistics for Economics/Interval estimation/Estimating population proportion.md",
+                "file": "College work/Mathematics/Linear Algebra/Linear transformations/The matrix of a transformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estimating population proportion"
+              "title": "The matrix of a transformation"
             }
           }
         ]
@@ -152,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Python/Lists.md",
+                "file": "College work/Mathematics/Linear Algebra/Systems of linear equations/Row space of a matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lists"
+              "title": "Outgoing links from Row space of a matrix"
             }
           },
           {
@@ -181,12 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "College work/Mathematics/Linear Algebra/Systems of linear equations/Row space of a matrix.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Row space of a matrix"
             }
           },
           {
@@ -205,6 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "College work/Mathematics/Linear Algebra/Systems of linear equations/Row space of a matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Row space of a matrix"
             }
           },
           {
@@ -262,6 +266,16 @@
   },
   "active": "e25d2d9d8ec1291f",
   "lastOpenFiles": [
+    "College work/Mathematics/Linear Algebra/Systems of linear equations/Number of solutions to a system.md",
+    "College work/Mathematics/Linear Algebra/Systems of linear equations/Gaussian elimination.md",
+    "College work/Mathematics/Linear Algebra/Systems of linear equations/Expressing as a matrix equation.md",
+    "College work/Mathematics/Linear Algebra/Systems of linear equations/Key vocabulary.md",
+    "College work/Mathematics/Linear Algebra/Systems of linear equations/Row space of a matrix.md",
+    "WhatsApp Image 2025-05-27 at 19.07.09_7417d0c3.jpg",
+    "College work/Mathematics/Linear Algebra/Linear transformations/The matrix of a transformation.md",
+    "College work/Statistics for Economics/Interval estimation/Estimating population proportion.md",
+    "College work/Mathematics/Linear Algebra/Systems of linear equations/Systems of linear equations.md",
+    "College work/Mathematics/Linear Algebra/Systems of linear equations",
     "College work/Statistics for Economics/Hypothesis testing/p values.md",
     "College work/Statistics for Economics/Inferences based on two samples/Inferences based on two samples.md",
     "College work/Statistics for Economics/Inferences based on two samples",
@@ -276,8 +290,6 @@
     "Images/graphical-representation-of-type-1-and-type-2-errors.webp",
     "Images/WhatsApp Image 2025-05-27 at 08.03.03_1a645443.jpg",
     "Images/WhatsApp Image 2025-05-26 at 14.46.06_03203336.jpg",
-    "Images/WhatsApp Image 2025-05-26 at 13.04.34_d4c4a715.jpg",
-    "College work/Statistics for Economics/Interval estimation/Estimating population proportion.md",
     "College work/Statistics for Economics/Discrete random variables/Binomial distribution.md",
     "College work/Statistics for Economics/Hypothesis testing/Testing for population mean.md",
     "College work/Statistics for Economics/Hypothesis testing/Decision rule and test statistic.md",
@@ -293,21 +305,13 @@
     "College work/Mathematical methods for Economics/Multivariable optimization/Topology in the plane.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Systems of equations.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Differentials and approximations.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Multivariable functions.md",
     "College work/Mathematical methods for Economics/Multivariable functions",
-    "College work/Functions of two variables/Functions of two variables.md",
     "College work/Functions of two variables",
-    "College work/Mathematical methods for Economics/Limits, Continuity and Series/Series.md",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Multivariable optimization.md",
     "College work/Mathematical methods for Economics/Multivariable optimization",
-    "College work/Macroeconomics/Classical macroeconomics/Basic ideas.md",
-    "College work/Macroeconomics/Keynesian macroeconomics/Government sector.md",
-    "College work/Macroeconomics/Keynesian macroeconomics/The multiplier.md",
     "College work.zip",
     "College work/Macroeconomics/Keynesian macroeconomics/IS-LM model",
     "College work/Entrance Prep/ISI Tomato",
     "College work/Entrance Prep/ISI MSQE",
-    "College work/Entrance Prep",
     "Untitled.canvas",
     "Grade 12/Economics/Untitled.canvas",
     "Untitled 1.canvas"
