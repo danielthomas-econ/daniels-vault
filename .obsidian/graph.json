@@ -1,0 +1,135 @@
+{
+  "collapse-filter": true,
+  "search": "-file:\"Coding\" -file:\"Errors\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#errors  ",
+      "color": {
+        "a": 1,
+        "rgb": 15339536
+      }
+    },
+    {
+      "query": "tag:#py-syntax  ",
+      "color": {
+        "a": 1,
+        "rgb": 14801422
+      }
+    },
+    {
+      "query": "path:libraries",
+      "color": {
+        "a": 1,
+        "rgb": 3307474
+      }
+    },
+    {
+      "query": "file:HTML",
+      "color": {
+        "a": 1,
+        "rgb": 14551021
+      }
+    },
+    {
+      "query": "tag:#html-syntax  ",
+      "color": {
+        "a": 1,
+        "rgb": 14551021
+      }
+    },
+    {
+      "query": "tag:#ai-ml  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "path:\"College work/Mathematical methods for Economics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14229536
+      }
+    },
+    {
+      "query": "path:\"College work/Mathematics/Calculus\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3577811
+      }
+    },
+    {
+      "query": "path:\"College work/Trigonometry\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14646487
+      }
+    },
+    {
+      "query": "path:\"College work/Statistics for Economics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "path:\"College work/Polar coordinates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16211873
+      }
+    },
+    {
+      "query": "path:\"College work/Relations and functions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3401267
+      }
+    },
+    {
+      "query": "path:\"College work/Microeconomics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16747786
+      }
+    },
+    {
+      "query": "path:\"College work\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:Coding/Python/QuantEcon  ",
+      "color": {
+        "a": 1,
+        "rgb": 65505
+      }
+    },
+    {
+      "query": "path:\"College work/Macroeconomics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 393015
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 0.916666666666667,
+  "lineSizeMultiplier": 1.14635416666667,
+  "collapse-forces": true,
+  "centerStrength": 0.385416666666667,
+  "repelStrength": 14.8532820436948,
+  "linkStrength": 1,
+  "linkDistance": 218,
+  "scale": 0.12826429452634744,
+  "close": false
+}

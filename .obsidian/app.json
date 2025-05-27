@@ -1,0 +1,9 @@
+{
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": false,
+  "spellcheckDictionary": [
+    "camelCaseToMakeItEasierToRead"
+  ],
+  "smartIndentList": false
+}

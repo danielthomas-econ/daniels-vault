@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "Typewriter",
+  "theme": "system",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "image_align",
+    "italics_bold",
+    "background_heading",
+    "sidebar",
+    "Colored Sidebar Items"
+  ],
+  "showRibbon": true
+}

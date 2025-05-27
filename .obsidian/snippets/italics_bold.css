@@ -1,0 +1,13 @@
+i, em, span.cm-em {
+color: #F08080; }
+
+
+strong, b, span.cm-strong {
+    color: #8df48d;
+}
+
+body {
+    --text-normal: #f2e7bd !important;
+    }
+
+/* #dbd3b6 */

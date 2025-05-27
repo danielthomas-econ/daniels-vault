@@ -1,0 +1,12 @@
+body {
+    --h2-color: #A28DE2; /* Brighter lavender */
+    --h3-color: #87CEEB; /* Slight cyan */
+}
+
+.theme-dark {
+    --background-primary: #222222 !important; /* Dark grey */
+}
+
+body {
+    --text-highlight-bg: #222222 !important; /* Dark grey */
+}

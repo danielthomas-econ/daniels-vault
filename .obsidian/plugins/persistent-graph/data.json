@@ -1,0 +1,235 @@
+{
+  "nodePositions": [
+    {
+      "id": "Coding/HTML/Basics of HTML.md",
+      "x": -765.3405151367188,
+      "y": -678.5187377929688
+    },
+    {
+      "id": "Coding/HTML/CSS/Basics of CSS.md",
+      "x": -394.9533386230469,
+      "y": -1019.5921630859375
+    },
+    {
+      "id": "Coding/HTML/CSS/Body.md",
+      "x": -92.37435150146484,
+      "y": -1089.7978515625
+    },
+    {
+      "id": "Coding/HTML/CSS/CSS.md",
+      "x": -206.22857666015625,
+      "y": -836.7470703125
+    },
+    {
+      "id": "Coding/HTML/CSS/Headings and paragraphs.md",
+      "x": 161.0943145751953,
+      "y": -740.2528076171875
+    },
+    {
+      "id": "Coding/HTML/CSS/Pictures.md",
+      "x": 19.871606826782227,
+      "y": -982.4615478515625
+    },
+    {
+      "id": "Coding/HTML/CSS/Tags and classes.md",
+      "x": -248.6568145751953,
+      "y": -1107.196044921875
+    },
+    {
+      "id": "Coding/HTML/Forms.md",
+      "x": -1089.7947998046875,
+      "y": -234.93836975097656
+    },
+    {
+      "id": "Coding/HTML/HTML.md",
+      "x": -620.6260986328125,
+      "y": -446.3894958496094
+    },
+    {
+      "id": "Coding/HTML/Links.md",
+      "x": -863.208251953125,
+      "y": -385.5529479980469
+    },
+    {
+      "id": "Coding/HTML/Lists.md",
+      "x": -864.9354248046875,
+      "y": -563.525634765625
+    },
+    {
+      "id": "Coding/HTML/Pictures.md",
+      "x": -597.4560546875,
+      "y": -697.4508666992188
+    },
+    {
+      "id": "Coding/Python/CSV files.md",
+      "x": 490.6208801269531,
+      "y": 329.9812927246094
+    },
+    {
+      "id": "Coding/Python/Declaring variables.md",
+      "x": 629.9728393554688,
+      "y": -192.6575469970703
+    },
+    {
+      "id": "Coding/Python/Dictionaries.md",
+      "x": 382.6805725097656,
+      "y": 515.6902465820312
+    },
+    {
+      "id": "Coding/Python/File writing.md",
+      "x": 87.5248794555664,
+      "y": -69.91463470458984
+    },
+    {
+      "id": "Coding/Python/Hashing.md",
+      "x": 52.974246978759766,
+      "y": 267.5946044921875
+    },
+    {
+      "id": "Coding/Python/If-else statements.md",
+      "x": 740.9453735351562,
+      "y": 22.583377838134766
+    },
+    {
+      "id": "Coding/Python/Input statement.md",
+      "x": 592.729736328125,
+      "y": -380.33526611328125
+    },
+    {
+      "id": "Coding/Python/Libraries/Libraries.md",
+      "x": -272.4869384765625,
+      "y": 765.4343872070312
+    },
+    {
+      "id": "Coding/Python/Libraries/datetime.md",
+      "x": -264.3292541503906,
+      "y": 1211.34130859375
+    },
+    {
+      "id": "Coding/Python/Libraries/hashlib.md",
+      "x": -132.23146057128906,
+      "y": 523.01318359375
+    },
+    {
+      "id": "Coding/Python/Libraries/os.md",
+      "x": -567.2304077148438,
+      "y": 897.2127685546875
+    },
+    {
+      "id": "Coding/Python/Libraries/pandas/Index selection (df.loc).md",
+      "x": -1055.198486328125,
+      "y": 969.66357421875
+    },
+    {
+      "id": "Coding/Python/Libraries/pandas/pandas basics.md",
+      "x": -1128.1151123046875,
+      "y": 657.6687622070312
+    },
+    {
+      "id": "Coding/Python/Libraries/pandas/pandas.md",
+      "x": -767.4015502929688,
+      "y": 776.0801391601562
+    },
+    {
+      "id": "Coding/Python/Libraries/pytz.md",
+      "x": -27.979276657104492,
+      "y": 1197.063232421875
+    },
+    {
+      "id": "Coding/Python/Libraries/random.md",
+      "x": -451.6658935546875,
+      "y": 1078.3057861328125
+    },
+    {
+      "id": "Coding/Python/Libraries/replit db.md",
+      "x": -327.3792724609375,
+      "y": 441.80218505859375
+    },
+    {
+      "id": "Coding/Python/Libraries/time.md",
+      "x": -61.42388153076172,
+      "y": 851.2645874023438
+    },
+    {
+      "id": "Coding/Python/Lists.md",
+      "x": 690.7647094726562,
+      "y": 415.9945068359375
+    },
+    {
+      "id": "Coding/Python/Loops.md",
+      "x": 936.0077514648438,
+      "y": 204.386962890625
+    },
+    {
+      "id": "Coding/Python/Math operators.md",
+      "x": 642.2645874023438,
+      "y": 232.0726318359375
+    },
+    {
+      "id": "Coding/Python/Multiple files.md",
+      "x": 787.6886596679688,
+      "y": -152.1338653564453
+    },
+    {
+      "id": "Coding/Python/Object oriented programming.md",
+      "x": 457.46044921875,
+      "y": -464.26092529296875
+    },
+    {
+      "id": "Coding/Python/Print statement.md",
+      "x": 383.9176025390625,
+      "y": -241.12217712402344
+    },
+    {
+      "id": "Coding/Python/Python.md",
+      "x": 484.9383239746094,
+      "y": 41.263832092285156
+    },
+    {
+      "id": "Coding/Python/Recursion.md",
+      "x": 951.659912109375,
+      "y": -90.58484649658203
+    },
+    {
+      "id": "Coding/Python/Strings.md",
+      "x": 223.2607879638672,
+      "y": 189.35598754882812
+    },
+    {
+      "id": "Coding/Python/Subroutine.md",
+      "x": 818.3145751953125,
+      "y": -377.5862731933594
+    },
+    {
+      "id": "Coding/Python/Tables.md",
+      "x": 793.6168212890625,
+      "y": 215.3515625
+    },
+    {
+      "id": "Coding/Python/Libraries/Flask/Flask.md",
+      "x": -577.4005737304688,
+      "y": 292.1993713378906
+    },
+    {
+      "id": "Coding/Python/Libraries/Flask/Flask basics.md",
+      "x": -296.4436950683594,
+      "y": -58.39872741699219
+    },
+    {
+      "id": "Coding/Python/Libraries/Flask/Flask and forms.md",
+      "x": -1019.606201171875,
+      "y": 68.15811920166016
+    },
+    {
+      "id": "Coding/Python/Libraries/json.md",
+      "x": 213.9947967529297,
+      "y": 883.8656005859375
+    },
+    {
+      "id": "Coding/Python/Libraries/rich.md",
+      "x": -31.95401954650879,
+      "y": 985.886962890625
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}
