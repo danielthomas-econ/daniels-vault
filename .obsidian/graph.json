@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-file:\"Coding\" -file:\"Errors\"",
   "showTags": false,
   "showAttachments": false,
@@ -116,6 +116,6 @@
   "repelStrength": 14.8532820436948,
   "linkStrength": 1,
   "linkDistance": 218,
-  "scale": 0.12826429452634744,
-  "close": false
+  "scale": 0.1123680422527104,
+  "close": true
 }

@@ -22,6 +22,7 @@ tags:
 - **[[Multivariable optimization]]**
 - **[[Polynomials, Powers and Exponentials]]**
 - **[[Relations and functions]]**
+- **[[Vectors and matrices]]**
 
 %% End Waypoint %%
 

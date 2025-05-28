@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
+                "file": "College work/Mathematical methods for Economics/Vectors and matrices/Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagonalization"
+              "title": "Vectors"
             }
           },
           {
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concatenation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "1169b062146b4a00",
+            "id": "5e4325899eb29a2f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -228,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -252,19 +252,28 @@
   },
   "active": "e25d2d9d8ec1291f",
   "lastOpenFiles": [
-    "Images/WhatsApp Image 2025-05-28 at 09.49.04_7a4aa71b.jpg",
-    "WhatsApp Image 2025-05-28 at 09.49.04_7a4aa71b.jpg",
-    "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
+    "College work/Mathematical methods for Economics/Vectors and matrices/Cauchy-Schwarz and Triangle inequality.md",
+    "College work/Mathematical methods for Economics/Introduction/Absolute values.md",
+    "College work/Mathematical methods for Economics/Introduction/Inequalities.md",
+    "College work/Mathematical methods for Economics/Vectors and matrices/Vectors.md",
+    "Images/WhatsApp Image 2025-05-28 at 13.27.15_f30827df.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 13.17.54_c7c69221.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 13.06.15_8eb1315e.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 12.58.08_8915f52e.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 12.20.03_31083ea6.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 12.15.36_a926593e.jpg",
+    "WhatsApp Image 2025-05-28 at 13.27.15_f30827df.jpg",
+    "WhatsApp Image 2025-05-28 at 13.17.54_c7c69221.jpg",
+    "WhatsApp Image 2025-05-28 at 13.06.15_8eb1315e.jpg",
+    "WhatsApp Image 2025-05-28 at 12.58.08_8915f52e.jpg",
+    "College work/Mathematical methods for Economics/Vectors and matrices/Leontief input output model.md",
+    "College work/Mathematical methods for Economics/More on differentiation/Elasticities.md",
+    "College work/Mathematical methods for Economics/Vectors and matrices/Vectors and matrices.md",
+    "College work/Mathematical methods for Economics/Vectors and matrices",
+    "College work/Mathematical methods for Economics/Polynomials, Powers and Exponentials/Quadratic functions.md",
+    "College work/Mathematical methods for Economics/More on differentiation/Inverse functions.md",
     "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
-    "Images/WhatsApp Image 2025-05-28 at 09.14.44_9722c171.jpg",
-    "Images/WhatsApp Image 2025-05-28 at 09.14.44_8cd3b80f.jpg",
-    "Images/WhatsApp Image 2025-05-28 at 09.14.43_5cd80452.jpg",
-    "Images/WhatsApp Image 2025-05-28 at 09.03.53_2269b733.jpg",
-    "Images/WhatsApp Image 2025-05-28 at 09.03.52_5ce29978.jpg",
-    "Images/WhatsApp Image 2025-05-28 at 08.10.15_dda34bd6.jpg",
-    "WhatsApp Image 2025-05-28 at 09.14.44_8cd3b80f.jpg",
-    "WhatsApp Image 2025-05-28 at 09.14.44_9722c171.jpg",
-    "WhatsApp Image 2025-05-28 at 09.14.43_5cd80452.jpg",
+    "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
     "College work/Mathematics/Linear Algebra/Systems of linear equations/Number of solutions to a system.md",
     "College work/Mathematics/Linear Algebra/Linear transformations/Kernel and Range.md",
     "College work/Entrance Prep/ISI Tomato/Objective.md",
@@ -285,19 +294,10 @@
     "College work/Statistics for Economics/Inferences based on two samples/Inferences based on two samples.md",
     "College work/Statistics for Economics/Inferences based on two samples",
     "College work/Statistics for Economics/Hypothesis testing/Type 1 and 2 errors.md",
-    "College work/Statistics for Economics/Hypothesis testing/Testing for population proportion.md",
-    "College work/Statistics for Economics/Discrete random variables/Binomial distribution.md",
-    "College work/Statistics for Economics/Hypothesis testing/Testing for population mean.md",
-    "College work/Statistics for Economics/Hypothesis testing/Decision rule and test statistic.md",
-    "College work/Statistics for Economics/Hypothesis testing/Basic concept.md",
-    "College work/Statistics for Economics/Interval estimation/t distributions.md",
-    "College work/Statistics for Economics/Interval estimation/Estimating the mean.md",
-    "College work/Statistics for Economics/Joint probability distributions/Covariance.md",
     "College work/Statistics for Economics/Hypothesis testing",
     "College work/Mathematical methods for Economics/Multivariable functions",
     "College work/Functions of two variables",
     "College work/Mathematical methods for Economics/Multivariable optimization",
-    "College work.zip",
     "Untitled.canvas",
     "Grade 12/Economics/Untitled.canvas",
     "Untitled 1.canvas"
