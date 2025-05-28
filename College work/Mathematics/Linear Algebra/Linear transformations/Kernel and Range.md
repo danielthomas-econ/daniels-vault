@@ -11,7 +11,7 @@ Quick access:
 - [[#Flashcards|Flashcards]]
 
 ## Kernel of a LT
-Let $T: V\to W$ be a linear transformation. The kernel of $T$, denoted by $\text{Ker }T$, is defined as $\text{Ker } T=\{v \in V: T(v)=0\}$. *It is the set of all elements in the domain that make the function equal to zero.* 
+Let $T: V\to W$ be a linear transformation. The kernel of $T$, denoted by $\text{Ker }T$, is defined as $\text{Ker } T=\{v \in V: T(v)=0\}$. *It is the set of all elements in the domain that make the function equal to zero.* The dimension of the kernel is also called the *nullity* of the transformation.
 
 Note:
 i) $\text{Ker }T$ is a subset of $V$.
@@ -61,6 +61,7 @@ $=\text{span}(\{a_{1},a_{2},\dots,a_{n}\})$
 $=\text{span}(\{\text{linearly independent }a_{i}\})$ ($\because$ LD vectors don't add to span)
 Since the linearly independent columns of $A$ correspond to its pivot columns, we can say
 $$\text{dim }\text{Range }T=\text{no. of pivot columns in an echelon form of A}$$
+This is why $\text{Range }T$ is *equal to $\text{rank}(A)$*.
 
 ## The dimension theorem
 Let $T: V\to W$ be a LT and $V$ be a fdvs. Then,

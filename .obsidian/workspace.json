@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
+                "file": "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eigenvalues and eigenvectors"
+              "title": "Diagonalization"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
+                "file": "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eigenvalues and eigenvectors"
+              "title": "Outgoing links from Diagonalization"
             }
           },
           {
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
+                "file": "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eigenvalues and eigenvectors"
+              "title": "Outline of Diagonalization"
             }
           },
           {
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
+                "file": "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eigenvalues and eigenvectors"
+              "title": "Backlinks for Diagonalization"
             }
           },
           {
@@ -252,46 +252,47 @@
   },
   "active": "e25d2d9d8ec1291f",
   "lastOpenFiles": [
-    "College work/Mathematics/Linear Algebra/Systems of linear equations/Number of solutions to a system.md",
+    "Images/WhatsApp Image 2025-05-28 at 09.49.04_7a4aa71b.jpg",
+    "WhatsApp Image 2025-05-28 at 09.49.04_7a4aa71b.jpg",
     "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
     "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
-    "WhatsApp Image 2025-05-28 at 08.10.15_dda34bd6.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 09.14.44_9722c171.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 09.14.44_8cd3b80f.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 09.14.43_5cd80452.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 09.03.53_2269b733.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 09.03.52_5ce29978.jpg",
+    "Images/WhatsApp Image 2025-05-28 at 08.10.15_dda34bd6.jpg",
+    "WhatsApp Image 2025-05-28 at 09.14.44_8cd3b80f.jpg",
+    "WhatsApp Image 2025-05-28 at 09.14.44_9722c171.jpg",
+    "WhatsApp Image 2025-05-28 at 09.14.43_5cd80452.jpg",
+    "College work/Mathematics/Linear Algebra/Systems of linear equations/Number of solutions to a system.md",
+    "College work/Mathematics/Linear Algebra/Linear transformations/Kernel and Range.md",
+    "College work/Entrance Prep/ISI Tomato/Objective.md",
     "College work/Mathematics/Linear Algebra/Systems of linear equations/Row space of a matrix.md",
     "College work/Mathematics/Linear Algebra/Eigen stuff/Eigen stuff.md",
     "College work/Mathematics/Linear Algebra/Eigen stuff",
     "College work/Mathematics/Linear Algebra/Linear transformations/The matrix of a transformation.md",
     "Coding/Python/Project Euler algorithms.md",
-    "Images/WhatsApp Image 2025-05-27 at 19.07.09_7417d0c3.jpg",
     "Readings",
     "New folder",
     "College work/Mathematics/Linear Algebra/Systems of linear equations/Gaussian elimination.md",
     "College work/Mathematics/Linear Algebra/Systems of linear equations/Expressing as a matrix equation.md",
     "College work/Mathematics/Linear Algebra/Systems of linear equations/Key vocabulary.md",
-    "WhatsApp Image 2025-05-27 at 19.07.09_7417d0c3.jpg",
     "College work/Statistics for Economics/Interval estimation/Estimating population proportion.md",
     "College work/Mathematics/Linear Algebra/Systems of linear equations/Systems of linear equations.md",
     "College work/Mathematics/Linear Algebra/Systems of linear equations",
     "College work/Statistics for Economics/Hypothesis testing/p values.md",
     "College work/Statistics for Economics/Inferences based on two samples/Inferences based on two samples.md",
     "College work/Statistics for Economics/Inferences based on two samples",
-    "Images/WhatsApp Image 2025-05-27 at 12.29.55_054e07d4.jpg",
-    "Images/Significance-level-and-p-value.png",
-    "Images/p-value.jpg",
-    "WhatsApp Image 2025-05-27 at 12.29.55_054e07d4.jpg",
     "College work/Statistics for Economics/Hypothesis testing/Type 1 and 2 errors.md",
-    "Significance-level-and-p-value.png",
-    "p-value.jpg",
     "College work/Statistics for Economics/Hypothesis testing/Testing for population proportion.md",
-    "Images/graphical-representation-of-type-1-and-type-2-errors.webp",
     "College work/Statistics for Economics/Discrete random variables/Binomial distribution.md",
     "College work/Statistics for Economics/Hypothesis testing/Testing for population mean.md",
     "College work/Statistics for Economics/Hypothesis testing/Decision rule and test statistic.md",
     "College work/Statistics for Economics/Hypothesis testing/Basic concept.md",
     "College work/Statistics for Economics/Interval estimation/t distributions.md",
     "College work/Statistics for Economics/Interval estimation/Estimating the mean.md",
-    "College work/Entrance Prep/ISI Tomato/Objective.md",
     "College work/Statistics for Economics/Joint probability distributions/Covariance.md",
-    "College work/Statistics for Economics/Hypothesis testing/Hypothesis testing.md",
     "College work/Statistics for Economics/Hypothesis testing",
     "College work/Mathematical methods for Economics/Multivariable functions",
     "College work/Functions of two variables",
