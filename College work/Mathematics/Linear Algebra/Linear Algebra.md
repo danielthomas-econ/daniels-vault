@@ -5,10 +5,9 @@ tags:
   - "#sem2-flashcards/linear_alg"
 ---
 %% Begin Waypoint %%
+- **[[Eigen stuff]]**
 - **[[Linear transformations]]**
 - **[[Systems of linear equations]]**
 - **[[Vector spaces]]**
 
 %% End Waypoint %%
-
-![[Linear Algebra textbook - Andrilli, Hecker.pdf]]

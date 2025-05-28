@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "path:\"College work/Mathematics/Calculus\"  ",
+      "query": "path:\"College work/Mathematics\"  ",
       "color": {
         "a": 1,
         "rgb": 3577811
@@ -85,13 +85,6 @@
       }
     },
     {
-      "query": "path:\"College work/Relations and functions\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3401267
-      }
-    },
-    {
       "query": "path:\"College work/Microeconomics\"  ",
       "color": {
         "a": 1,
@@ -111,16 +104,9 @@
         "a": 1,
         "rgb": 65505
       }
-    },
-    {
-      "query": "path:\"College work/Macroeconomics\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 393015
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.3,
   "nodeSizeMultiplier": 0.916666666666667,

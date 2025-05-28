@@ -73,7 +73,6 @@
     "//linear_alg",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Vector Spaces",
     "//Coding/Coding/Julia",
-    "//College work",
     "//College work/College work/Entrance Prep/College work/Entrance Prep/ISI MSQE",
     "//College work/College work/Macroeconomics/College work/Macroeconomics/Keynesian macroeconomics/College work/Macroeconomics/Keynesian macroeconomics/IS-LM model",
     "//College work/College work/Entrance Prep/College work/Entrance Prep/ISI Tomato",
@@ -83,6 +82,10 @@
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Multivariable functions",
     "//College work/College work/Mathematics",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra",
+    "//College work",
+    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigen",
+    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigenstuff",
+    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigen stuff",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Systems of linear equations"
   ],
   "expandFolderOnClick": true,
