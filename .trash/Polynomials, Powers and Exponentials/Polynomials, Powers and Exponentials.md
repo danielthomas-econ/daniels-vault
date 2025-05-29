@@ -13,6 +13,6 @@ tags:
   - sem1-flashcards/mme
 ---
 %% Begin Waypoint %%
-- [[Quadratic functions]]
+
 
 %% End Waypoint %%

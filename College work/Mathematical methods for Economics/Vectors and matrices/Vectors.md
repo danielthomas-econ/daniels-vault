@@ -4,6 +4,7 @@ tags:
   - "#sem2-flashcards/mme/vectors_and_matrices"
 ---
 Quick access:
+
 - [[#What are vectors?|What are vectors?]]
 - [[#Operations on two vectors|Operations on two vectors]]
 	- [[#Operations on two vectors#Equality|Equality]]
@@ -16,6 +17,8 @@ Quick access:
 	- [[#Geometric representation of vectors#Vector subtraction|Vector subtraction]]
 	- [[#Geometric representation of vectors#Scalar multiplication|Scalar multiplication]]
 - [[#Lengths of vectors|Lengths of vectors]]
+- [[#Orthogonality|Orthogonality]]
+
 
 
 ## What are vectors?

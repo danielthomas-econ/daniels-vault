@@ -4,8 +4,7 @@ tags:
   - sem1-flashcards/mme
 ---
 %% Begin Waypoint %%
-- [[Elasticities]]
-- [[Inverse functions]]
+
 
 %% End Waypoint %%
 

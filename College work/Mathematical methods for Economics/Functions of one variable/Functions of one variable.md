@@ -13,7 +13,10 @@ tags:
   - sem1-flashcards/mme
 ---
 %% Begin Waypoint %%
+- [[Elasticities]]
+- [[Inverse functions]]
 - [[Linear functions]]
+- [[Quadratic functions]]
 - [[Shifting and mirroring graphs]]
 
 %% End Waypoint %%

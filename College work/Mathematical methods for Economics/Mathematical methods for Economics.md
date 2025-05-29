@@ -17,10 +17,8 @@ tags:
 - **[[Functions of one variable]]**
 - **[[Introduction]]**
 - **[[Limits, Continuity and Series]]**
-- **[[More on differentiation]]**
 - **[[Multivariable functions]]**
 - **[[Multivariable optimization]]**
-- **[[Polynomials, Powers and Exponentials]]**
 - **[[Relations and functions]]**
 - **[[Vectors and matrices]]**
 

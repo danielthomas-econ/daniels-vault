@@ -1,5 +1,5 @@
 ---
-color: var(--mk-color-turquoise)
+color: var(--mk-color-brown)
 tags:
   - sem1-flashcards/mme
 ---

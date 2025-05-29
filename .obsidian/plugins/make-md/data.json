@@ -83,8 +83,13 @@
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigen",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigenstuff",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Vector spaces",
-    "//College work/College work/Statistics for Economics",
-    "//College work/College work/Statistics for Economics/College work/Statistics for Economics/Inferences based on two samples"
+    "//College work/College work/Mathematical methods for Economics",
+    "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Multivariable functions",
+    "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Functions of one variable",
+    "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/More on differentiation",
+    "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Polynomials, Powers and Exponentials",
+    "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Multivariable optimization",
+    "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Vectors and matrices"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
@@ -106,7 +111,8 @@
     "Grade 12/Images",
     "College work/Images",
     "Images",
-    "Linear Algebra textbook - Andrilli, Hecker.pdf"
+    "Linear Algebra textbook - Andrilli, Hecker.pdf",
+    "wordcount.py"
   ],
   "hiddenExtensions": [
     "mdb"
