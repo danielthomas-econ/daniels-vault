@@ -78,18 +78,20 @@
     "//College work/College work/Entrance Prep/College work/Entrance Prep/ISI Tomato",
     "//College work/College work/Macroeconomics/College work/Macroeconomics/Classical macroeconomics/College work/Macroeconomics/Classical macroeconomics/Financial markets",
     "//College work/College work/Macroeconomics/College work/Macroeconomics/Classical macroeconomics",
-    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra",
     "//College work",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigen",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigenstuff",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Vector spaces",
     "//College work/College work/Mathematical methods for Economics",
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Multivariable functions",
-    "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Functions of one variable",
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/More on differentiation",
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Polynomials, Powers and Exponentials",
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Multivariable optimization",
-    "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Vectors and matrices"
+    "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Vectors and matrices",
+    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigen stuff",
+    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Systems of linear equations",
+    "//College work/College work/Mathematics",
+    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
@@ -112,7 +114,10 @@
     "College work/Images",
     "Images",
     "Linear Algebra textbook - Andrilli, Hecker.pdf",
-    "wordcount.py"
+    "wordcount.py",
+    "word_counts.txt",
+    "obsidian hotkeys.ahk",
+    "z_obsidian hotkeys.ahk"
   ],
   "hiddenExtensions": [
     "mdb"

@@ -2,11 +2,13 @@
 color: var(--mk-color-brown)
 tags:
   - "#sem2-flashcards/linear_alg/eigenstuff"
+  - "#sem2-flashcards/mme/eigenstuff"
 ---
 Quick access:
 - [[#Similar matrices|Similar matrices]]
 - [[#Diagonalizable matrices|Diagonalizable matrices]]
 	- [[#Diagonalizable matrices#Condition for diagonalizability|Condition for diagonalizability]]
+	- [[#Diagonalizable matrices#Higher power of matrices|Higher power of matrices]]
 
 ## Similar matrices
 A square matrix $A$ is stb similar to a square matrix $B$ if $\exists$ an invertible matrix $P$ s.t. $A=P^{-1}BP$. **If $A$ is similar to $B$, then $B$ is similar to** $A$, so we can also say that $B=P^{-1}AP$. Similar matrices also **have the same determinants, characteristic polynomial, and therefore eigenvalues.** 
@@ -24,3 +26,7 @@ A matrix is diagonalizable if **all its eigenvalues are distinct.** If we have a
 
 **If eigenvalues are repeated, the eigenspace must be a linear combination of independent vectors** for the matrix to be diagonalizable. For a matrix of order $n$, we have less than $n$ distinct eigenvalues if there are repeated eigenvalues. This would mean that we have less than $n$ eigenvectors, so we don't have enough to form a matrix $P$ of order $n$. But if we have an eigenspace that is a linear combination of independent vectors [[Eigenvalues and eigenvectors#^e35ca8|(special case of eigenspace),]] we may still be able to get $n$ vectors. *If the sum of the linearly independent vectors in each eigenspace (includes eigenvectors themselves) is equal to $n$*, then we can diagonalize the matrix.
 
+### Higher power of matrices
+It is very easy to find $A^{n}$ using diagonalization, since if $A$ can be diagonalized as $P^{-1}DP$, $A^{n}= P^{-1}D^{n}P$. **Now, we only have to raise a diagonal matrix to a power, which is just the power of the individual elements.** 
+
+Also, if you are asked to find $A^{n}X$, where $X$ is an eigenvector, you can use the formula $A^{n}X=\lambda^{n}X$.

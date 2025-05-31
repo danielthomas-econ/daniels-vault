@@ -39,11 +39,11 @@ Obviously, this only works if $F_{2}'\ne 0$. This is useful because *it gives us
 ### Second derivative of a level curve
 Differentiate $f'(x) = \dfrac{{-F_{1}'(x,y)}}{F_{2}'(x,y)}$ using quotient rule to get the second derivative. It becomes really long and tedious, so here's the shortest formula for the second derivative:
 ![[WhatsApp Image 2025-05-29 at 15.08.24_02fe487a.jpg]]
-The determinant may look daunting, but it is simply the determinant of the [[Quasi concavity#Bordered Hessian matrix|bordered hessian matrix]] of the function $F(x,y)=c$. Therefore, the second derivative becomes the bordered hessian divided by the cube of the first partial wrt $y$.
+The determinant may look daunting, but it is simply the determinant of the [[Quasi concavity and convexity#Bordered Hessian matrix|bordered hessian matrix]] of the function $F(x,y)=c$. Therefore, the second derivative becomes the bordered hessian divided by the cube of the first partial wrt $y$.
 
 ### General equation for tangent to a level curve
 Since we know the slope of the level curve, we can simply substitute this into the point slope form for equation of a line. This gives us $y-y_{0} = \dfrac{{-F_{1}'}}{F_{2}'}(x-x_{0})$. We can simplify this and write it in the form $F_{1}'(x,y)(x-x_{0})+F_{2}'(x,y)(y-y_{0})=0$.
 
 $$\text{Tangent to a level curve: }F_{1}'(x,y)(x-x_{0})+F_{2}'(x,y)(y-y_{0})=0$$
 
-Observe that this can be written in dot product form as $(F_{1}'(x,y),F_{2}'(x,y)) \cdot (x-x_{0},y-y_{0}) = 0$. This is nothing but the dot product of the [[Gradients and directional derivatives#Gradient|gradient]] and $(x-x_{0},y-y_{0})$. The vector $(x-x_{0}, y-y_{0})$ represents the tangent vector as $x_{0},y_{0} \to 0$. **Since the dot product of gradient and the tangent is zero, they are orthogonal.** 
+Observe that this can be written in dot product form as $(F_{1}'(x,y),F_{2}'(x,y)) \cdot (x-x_{0},y-y_{0}) = 0$. This is nothing but the dot product of the [[Chain rule and gradients#Gradient|gradient]] and $(x-x_{0},y-y_{0})$. The vector $(x-x_{0}, y-y_{0})$ represents the tangent vector as $x_{0},y_{0} \to 0$. **Since the dot product of gradient and the tangent is zero, they are orthogonal.** 

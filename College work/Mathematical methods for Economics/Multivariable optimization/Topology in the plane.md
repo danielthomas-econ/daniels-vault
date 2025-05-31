@@ -3,6 +3,13 @@ color: var(--mk-color-orange)
 tags:
   - "#sem2-flashcards/mme/multivariable_optimization"
 ---
+Quick access:
+- [[#Interior and boundary points|Interior and boundary points]]
+- [[#Types of sets|Types of sets]]
+	- [[#Types of sets#Closed and open sets|Closed and open sets]]
+	- [[#Types of sets#Bounded and unbounded sets|Bounded and unbounded sets]]
+	- [[#Types of sets#Compact set|Compact set]]
+- [[#Using inequalities to describe sets|Using inequalities to describe sets]]
 
 
 ## Interior and boundary points

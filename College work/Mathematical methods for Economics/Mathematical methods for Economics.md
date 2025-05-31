@@ -23,4 +23,4 @@ tags:
 - **[[Vectors and matrices]]**
 
 %% End Waypoint %%
-
+[[Eigen stuff]]

@@ -30,3 +30,14 @@ $$MRS_{yx} = \dfrac{{F_{1}'(x,y)}}{F_{2}'(x,y)}$$
 Economically, the elasticity of substitution represents how easy it is to substitute one good for another. Mathematically, the elasticity of substitution between $y$ and $x$ is denoted by
 $$\sigma_{yx} = El_{MRS_{yx}}\left( \dfrac{y}{x} \right)$$
 We can find this elasticity the same way we find normal elasticities. *I would strong suggest simplifying this with log to get* $\sigma_{yx} = \dfrac{{d\ln\left( \dfrac{y}{x} \right)}}{d \ln MRS_{yx}}$. This is because when you solve for MRS, most of the time you can simplify it in such a way that you get one term in $\dfrac{y}{x}$. **If you take log on both sides and isolate $\ln\left( \dfrac{y}{x} \right)$**, **you'll get $\ln \left( \dfrac{y}{x} \right)$ expressed in terms of $\ln MRS_{yx}$ and maybe some constant term.** This makes it super easy to differentiate wrt $\ln MRS_{yx}$ and solve for $\sigma_{yx}$ using the log method.
+
+
+## Flashcards
+Q1) Find the elasticity of substitution of y and x for the function $Y= Ax^{\alpha}y^{\beta}$, $A,x,y > 0$
+?
+Ans) Notice that this is a Cobb-Douglas function and *these functions always have an elasticity of substitution of 1.* Anyways, we'll still prove its 1.
+.
+$MRS_{yx}= \dfrac{F_{1}'(x,y)}{F_{2}'(x,y)}$. Solving and cancelling gives us $\dfrac{\alpha}{\beta} \cdot \dfrac{y}{x}$.
+We can take log on both sides. Therefore, $\ln MRS_{yx}=\ln\left( \dfrac{\alpha}{\beta} \right) + \ln\left( \dfrac{y}{x} \right)$ $\implies$ $\ln\left( \dfrac{y}{x} \right)=\ln MRS_{yx} + \ln\left( \dfrac{\alpha}{\beta} \right)$.
+We know $\sigma_{yx}= \dfrac{d\ln\left( \dfrac{y}{x} \right)}{d\ln(MRS_{yx})}$. Differentiating wrt $\ln MRS_{yx}$ gives us $\dfrac{d\ln\left( \dfrac{y}{x} \right)}{d\ln(MRS_{yx})}=1$. Therefore, the elasticity of substitution is 1.
+<div style='border-top: 1px solid; width: 100%; margin-top:3px; margin-bottom: 0px;'></div>

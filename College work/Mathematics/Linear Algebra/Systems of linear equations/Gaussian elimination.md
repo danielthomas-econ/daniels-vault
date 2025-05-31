@@ -4,23 +4,12 @@ tags:
   - "#sem2-flashcards/linear_alg/system_of_equations"
 ---
 Quick access:
-- [[#Elementary row transformations|Elementary row transformations]]
 - [[#Concept behind Gaussian elimination|Concept behind Gaussian elimination]]
 - [[#Steps involved in Gaussian elimination|Steps involved in Gaussian elimination]]
 - [[#Gauss Jordan method|Gauss Jordan method]]
 
-## Elementary row transformations
-There are three types of ERTs:
-1) $R_{i} \leftrightarrow R_{j}$ (swapping rows)
-2) $R_{i} \to kR_{i}$ (multiplying the row by a non zero scalar)
-3) $R_{i}\to R_{i}+kR_{j}$ (adding a scalar multiple of the $j^{th}$ row to the $i^{th}$ row)
-
-ERTs are very useful as **applying these transformations to an augmented matrix does not change the solution set.**
-
-Another property of ERTs (albeit less useful than the first) is that applying an ERT on the product of matrices $(AB)$ is the same as applying it to the prefactor $A$ and then multiplying it by $B$. Therefore, if $R$ is an ERT, $R(AB)=(R(A))B$.
-
 ## Concept behind Gaussian elimination
-Since ERTs don't change the solution set, we can use these to simplify our system of equations. Once we convert a system to an augmented matrix, *our goal is to get as many zeros as possible. When we convert this back into equation form, terms with zeros as coefficients are effectively 'eliminated'.* This makes our system a lot simpler to solve.
+Since [[Elementary row transformations|ERTs]] don't change the solution set, we can use these to simplify our system of equations. Once we convert a system to an augmented matrix, *our goal is to get as many zeros as possible. When we convert this back into equation form, terms with zeros as coefficients are effectively 'eliminated'.* This makes our system a lot simpler to solve.
 
 ## Steps involved in Gaussian elimination
 **Step 1:** Make the entry at $(1,1)$ equal to $1$ by using the ERT $R_{1} \to \dfrac{1}{a_{11}}R_{1}$. Since we divide the whole first row by the first term, the first term is divided by itself and becomes $1.$ *If the first term is zero, swap with another row.*

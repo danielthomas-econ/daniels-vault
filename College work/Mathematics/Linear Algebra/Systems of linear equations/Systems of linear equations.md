@@ -2,6 +2,7 @@
 color: var(--mk-color-turquoise)
 ---
 %% Begin Waypoint %%
+- [[Elementary row transformations]]
 - [[Expressing as a matrix equation]]
 - [[Gaussian elimination]]
 - [[Key vocabulary]]

@@ -3,6 +3,12 @@ color: var(--mk-color-orange)
 tags:
   - "#sem2-flashcards/mme/multivariable_optimization"
 ---
+Quick access:
+- [[#FOC for two variables|FOC for two variables]]
+- [[#Definition of maxima and minima|Definition of maxima and minima]]
+- [[#Increasing transformation of functions|Increasing transformation of functions]]
+- [[#Extreme value theorem|Extreme value theorem]]
+- [[#Steps to find maximum and minimum values|Steps to find maximum and minimum values]]
 
 ## FOC for two variables
 A necessary condition for a differentiable function $f(x,y)$ to have a maximum or a minimum at some interior point $(x_{0},y_{0})$ of its domain is that *$(x_{0},y_{0})$ is a stationary point of the function.* These are points where $f'_{1}(x_{0},y_{0})=0$ and $f'_{2}(x_{0},y_{0})=0$. However, this is not a sufficient condition for a maximum or minimum.
@@ -28,7 +34,7 @@ ii) same but with strict inequalities
 
 
 ## Extreme value theorem
-If $f$ is a **continuous function over a closed, bounded set** $S$ in $\mathbb{R}^n$, then there exists both a maximum $c=(c_{1},c_{2},\dots,c_{n})$ and a minimum $d=(d_{1},d_{2},\dots,d_{n})$ in $S$.
+If $f$ is a **continuous function over a closed, bounded set** $S$ in $\mathbb{R}^n$, then there exists both a maximum $c=(c_{1},c_{2},\dots,c_{n})$ and a minimum $d=(d_{1},d_{2},\dots,d_{n})$ in $S$. Therefore, $f(d) \leq f(x) \leq f(c)$ $\forall x \in S$.
 
 
 ## Steps to find maximum and minimum values

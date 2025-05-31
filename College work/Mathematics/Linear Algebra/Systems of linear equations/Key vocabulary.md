@@ -30,10 +30,10 @@ A matrix is stb in row echelon form if:
 1) The first non-zero entry in each row is 1 (leading entry, also called *pivot position*)
 2) Each successive row has its first non-zero entry (pivot position) **to the right** of the non-zero entry above it.
 3) In case there are any rows of zeros, they must be at the bottommost position.
-Although we typically follow a 'standard' procedure for reducing a matrix, you can use any method to reduce a matrix as long as it ends up in row echelon form. Therefore, **a matrix can have multiple row echelon forms.**
+Although we typically follow a 'standard' procedure for reducing a matrix, you can use any method to reduce a matrix as long as it ends up in row echelon form. Therefore, **a matrix can have multiple row echelon forms.** We'll call this a *REF* for simplicity.
 
 ## Reduced row echelon form
-A matrix is stb in reduced row echelon form if it is *in row echelon form and every element above the leading entry is zero.* While a matrix may have multiple row echelon forms, **there is only one unique reduced row echelon form.** 
+A matrix is stb in reduced row echelon form if it is *in row echelon form and every element above the leading entry is zero.* While a matrix may have multiple row echelon forms, **there is only one unique reduced row echelon form.** We'll denoted this with *RREF* for simplicity.
 
 ## Pivot columns
 Columns that *contain leading entries* in a row echelon form are called pivot columns. The remaining columns are called non-pivot columns.
