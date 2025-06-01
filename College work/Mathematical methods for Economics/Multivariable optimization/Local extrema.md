@@ -3,6 +3,9 @@ color: var(--mk-color-orange)
 tags:
   - "#sem2-flashcards/mme/multivariable_optimization"
 ---
+Quick access:
+- [[#Saddle points|Saddle points]]
+- [[#Second order conditions for functions of two variables|Second order conditions for functions of two variables]]
 
 ## Saddle points
 We know that local maxima and minima are just the maximum and minimum values of the function in a given interval. The same [[Maxima and minima#FOC for two variables|FOC]] applies here, the partials must be equal to zero. However, this is a *necessary but not sufficient* condition. Therefore, **we can have a case when the partials equal zero, but we don't have a local max or min. This is called a saddle point.** 

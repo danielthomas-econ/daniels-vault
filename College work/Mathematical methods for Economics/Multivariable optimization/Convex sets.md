@@ -24,4 +24,3 @@ We know that indifference curves are always convex. So let's define the set $S=\
 ![[WhatsApp Image 2025-05-30 at 09.44.06_c607faff.jpg|center|300]]
 As you can see, *connecting any two points in the upper level set of the IC lies within the set.* Therefore, the upper level curve of an IC is a convex set.
 
-

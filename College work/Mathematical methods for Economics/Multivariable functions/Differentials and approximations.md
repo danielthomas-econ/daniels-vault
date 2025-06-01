@@ -56,3 +56,11 @@ If we are given a system of equations, we can use differentials to find out the 
 ![[WhatsApp Image 2025-05-18 at 16.17.55_30358be9.jpg|center|500]]
 
 We can repeat the same steps for $v$ if we eliminate $u$ from the system of equations.
+
+
+
+## Flashcards
+Q1) ![[Pasted image 20250601114754.png]]
+?
+Ans) **Mistake made: Although $a$ and $b$ are generally constants, here we must consider them as variables since they change.** Only then will the differential give you the answer. Since $a,b,x,y$ are variables, we must use the product rule for differentials. Also, from the given values of $x$ and $y$, we know $z=50$ and that must not change. Therefore, after differentiating we get the system $\dfrac{a}{x}dx + \ln x\:da + \dfrac{b}{y}dy+\ln y\:db=0$ and $dx+dy=0$. *The question tells us $a$ is unchanged, so $da=0$ and $db=0.004$*. Sub $db=0.004$ and $dy=-dx$ and we get $\dfrac{a}{x}dx-\dfrac{b}{y}dx+0.004\ln y=0$. Therefore, $\dfrac{{ay-bx}}{xy}dx=-0.004\ln y$ $\implies dx= \dfrac{{-0.004}\ln(y)xy}{ay-bx}$. *Here we must plug in the current values of these variables to find the change and hence the new values.* $a=0.5,b=0.5,x=25,y=100$, so we get $dx= \dfrac{{-10}}{37.5}\ln 100$, which means $dy= \dfrac{{10}}{37.5}\ln 100$. The new input combination should be the old values of $x$ and $y$ plus their differentials. Therefore, our new input combination becomes $x=25 -\dfrac{10}{37.5}\ln 100$, $y=100 + \dfrac{10}{37.5}\ln 100$.
+<div style='border-top: 1px solid; width: 100%; margin-top:3px; margin-bottom: 0px;'></div>

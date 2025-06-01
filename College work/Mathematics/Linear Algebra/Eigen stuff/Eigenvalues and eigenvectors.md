@@ -14,6 +14,9 @@ Quick access:
 	- [[#Finding eigenvalues and vectors#Basic example|Basic example]]
 	- [[#Finding eigenvalues and vectors#Example with special case of eigenspace|Example with special case of eigenspace]]
 - [[#Useful properties of eigenvalues|Useful properties of eigenvalues]]
+	- [[#Useful properties of eigenvalues#Determinant and trace|Determinant and trace]]
+	- [[#Useful properties of eigenvalues#Triangular matrices|Triangular matrices]]
+	- [[#Useful properties of eigenvalues#Symmetric matrices|Symmetric matrices]]
 
 ## Concept
 Let $A$ be a square matrix of order $n$. A real number $\lambda$ is stb an eigenvalue of $A$ iff $\exists$ a non zero eigenvector $X$, $X\ne 0$, s.t. $AX=\lambda X$.
@@ -63,7 +66,12 @@ This is done because the eigenspace is a vector space, so we're basically expres
 ![[WhatsApp Image 2025-05-28 at 09.14.44_8cd3b80f.jpg|center|600]]
 
 ## Useful properties of eigenvalues
+### Determinant and trace
 The **product of eigenvalues is given by the determinant and the sum of eigenvalues is the trace** (sum of diagonal elements) of the matrix. This is very useful in rechecking your work and in some proof questions. This result also tells us that *zero is an eigenvalue iff determinant is zero,* as determinant being zero means the product of eigenvalues is zero, which means at least one eigenvalue must necessarily be zero.
 
+### Triangular matrices
 **The eigenvalues of a triangular matrix as its diagonal elements.** This is true because when finding $\det(\lambda I-A)$, most of the terms will become zero (because a triangular matrix has many zeros), leaving us with just the diagonal elements as roots.
+
+### Symmetric matrices
+If $A$ is a symmetric matrix, then the characteristic polynomial of $A$ has only real roots. **Therefore, all eigenvalues are real.** Also, if $x_{1}$ and $x_{2}$ are two eigenvectors associated with different eigenvalues $\lambda_{1}$ and $\lambda_{2}$, then **the eigenvectors are orthogonal.** 
 

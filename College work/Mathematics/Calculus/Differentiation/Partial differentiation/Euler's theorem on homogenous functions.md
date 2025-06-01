@@ -4,10 +4,10 @@ tags:
   - sem1-flashcards/math_ge/calc/differentiation
 ---
 Quick access:
-[[Euler's theorem on homogenous functions#Converting to homogenous functions|Converting to homogenous functions]]
-[[Euler's theorem on homogenous functions#Euler's theorem|Euler's theorem]]
-	[[Euler's theorem on homogenous functions#Corollary of Euler's theorem|Corollary of Euler's theorem]]
-
+- [[#Converting to homogenous functions|Converting to homogenous functions]]
+- [[#Euler's theorem|Euler's theorem]]
+	- [[#Euler's theorem#Corollary of Euler's theorem|Corollary of Euler's theorem]]
+- [[#Flashcards|Flashcards]]
 
 ## Converting to homogenous functions
 We know that a homogenous function is a function in which all the terms share the same power. *To prove a function is homogenous, we need to write it in the form $u=x^nf(\frac{y}{x})$*. Let's go through the steps of converting with an example.

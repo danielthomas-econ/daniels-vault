@@ -77,7 +77,7 @@ Define the bordered Hessian determinants as $D_{r}(x)$, $r=1,\dots,n$.
 For *quasi-concavity,*
 Necessary condition: $(-1)^{r}D_{r}(x) \geq 0$
 Sufficient condition: $(-1)^{r} D_{r}(x) > 0$
-for $r=1,\dots,n$ and all $x \in S$ (convex set domain).
+for $r=2,\dots,n+1$ and all $x \in S$ (convex set domain). **Note that we do not test for $r=1$**, **since that is always by definition zero and would make the sufficiency condition always fail.** 
 
 In other words:
 Necessary condition: Bordered Hessian is negative semidefinite
