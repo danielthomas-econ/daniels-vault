@@ -123,7 +123,7 @@
             }
           },
           {
-            "id": "362fd54b091f8efb",
+            "id": "9bd6d4ef017d7668",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -263,8 +263,10 @@
   },
   "active": "e25d2d9d8ec1291f",
   "lastOpenFiles": [
-    "College work/Mathematical methods for Economics/Multivariable optimization/Convex sets.md",
+    "College work/Mathematical methods for Economics/Multivariable functions/Partial elasticities.md",
+    "College work/Mathematical methods for Economics/Multivariable functions/Chain rule and gradients.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Homogenous and homothetic functions.md",
+    "College work/Mathematical methods for Economics/Multivariable optimization/Convex sets.md",
     "Images/Pasted image 20250601114754.png",
     "College work/Mathematics/Calculus/Differentiation/Partial differentiation/Euler's theorem on homogenous functions.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Differentials and approximations.md",
@@ -275,7 +277,6 @@
     "College work/Mathematical methods for Economics/Multivariable optimization/Quasi concavity and convexity.md",
     "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
     "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Partial elasticities.md",
     "Images/WhatsApp Image 2025-05-31 at 10.46.55_53ea20e9.jpg",
     "Images/Pasted image 20250531095248.png",
     "Images/6pJc7.jpg",
@@ -292,7 +293,6 @@
     "College work/Mathematical methods for Economics/Vectors and matrices/Cauchy-Schwarz and Triangle inequality.md",
     "College work/Mathematical methods for Economics/Multivariable optimization/Extreme value theorem.md",
     "College work/Mathematics/Linear Algebra/Systems of linear equations/Key vocabulary.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Chain rule and gradients.md",
     "College work/Mathematical methods for Economics/Vectors and matrices/Lines and planes.md",
     "College work/Mathematical methods for Economics/Vectors and matrices/Geometric representation of vectors.md",
     "College work/Mathematical methods for Economics/Vectors and matrices/Vectors.md",

@@ -10,7 +10,6 @@ Quick access:
 - [[#Homothetic functions|Homothetic functions]]
 - [[#Flashcards|Flashcards]]
 
-
 ## Definition
 A function $f$ is stb homogenous of degree $k$ if for all $(x,y)$ in the domain, $f(tx,ty)=t^{k}f(x,y)$ for $t>0$. This means *multiplying both the variables by a positive factor $t$ will return the function value multiplied by $t^k$*. Alternatively, if you can express it in terms of $u=x^{k}f\left( \dfrac{y}{x} \right)$, the function is homogenous of degree $k$. You can read more about it in [[Euler's theorem on homogenous functions|this note.]]
 
@@ -84,4 +83,17 @@ For product:
 $f(tx)\cdot g(tx)=t^{k_{1}}f(x)\cdot t^{k_{2}}g(x)=t^{k_{1} + k_{2}}(f(x)+g(x))$ $\implies$ the product is homogenous of degree $k_{1}+k_{2}$. Therefore, *the product of two homogenous functions is necessarily homogenous.*
 .
 For questions like this where you're asked to check for homogeneity, its best to just put $t$ in the argument and check if you can take $t$ common in the end.
+<div style='border-top: 1px solid; width: 100%; margin-top:3px; margin-bottom: 0px;'></div>
+
+Q4) If $f(x,y)$ is homogenous of degree 1, show that $f_{11}''(x,y)f_{22}''(x,y)-(f_{12}''(x,y))^{2}=0$.
+?
+Ans) If $f(x,y)$ is homogenous of degree 1, then $f_{1}'$ and $f_{2}'$ are homogenous of degree $k-1=0$. Using Euler's theorem on the two first partials, we get$$\begin{align}
+xf_{11}''(x,y)+yf_{12}''(x,y)=0 \\
+xf_{12}''(x,y) + yf_{22}''(x,y)=0
+\end{align}$$Note that $f_{12}''=f_{21}''$ by Young's Theorem. *This gives us a system of equations with which we can express $f_{11}''$ and $f_{22}''$ in terms of $f_{12}''$*. Therefore, $f_{11}''= \dfrac{{-y}}{x}f_{12}''$, $f_{22}''= \dfrac{{-x}}{y}f_{12}''$. This means we can rewrite the equation $f_{11}''f_{22}''-(f_{12}'')^{2}$ as $\left[ \dfrac{{-y}}{x}f_{12}'' \right]\cdot\left[ \dfrac{{-x}}{y}f_{12}'' \right]-(f_{12}'')^{2}=(f_{12}'')^{2}-(f_{12}'')^{2}=0$. Hence proved.
+<div style='border-top: 1px solid; width: 100%; margin-top:3px; margin-bottom: 0px;'></div>
+
+Q5) If $f$ is homogenous of degree $k$, prove that $f^{-1}$ is homogenous of degree $\dfrac{1}{k}$.
+?
+Ans) Let $y=f(x)$ be homogenous of degree $k$. Let $g(y)=f^{-1}$. Therefore, $g(y)=x$ $\implies f(x)=f(g(y))$. Since $f$ is homogenous, $f(tg(y))=t^{k}f(g(y))\implies f(tg(y)) = t^{k}y$. *We started with applying $f$ to $g$*, *so now we'll apply $g$ to $f$ here to invert it.* The $f$ and $g$ will cancel so $tg(y)=g(t^{k}y)$ $\implies$ $g$ is homogenous of degree $\dfrac{1}{k}$.
 <div style='border-top: 1px solid; width: 100%; margin-top:3px; margin-bottom: 0px;'></div>

@@ -4,29 +4,31 @@ Coding\Python\Errors.md: 1914 words
 College work\Macroeconomics\Keynesian macroeconomics\Government sector.md: 1864 words
 Coding\Python\QuantEcon\Numpy\Arrays.md: 1623 words
 College work\Macroeconomics\Classical macroeconomics\Employment.md: 1584 words
+College work\Mathematical methods for Economics\Vectors and matrices\Rank of a matrix.md: 1398 words
 College work\Mathematics\Linear Algebra\Linear transformations\Kernel and Range.md: 1295 words
 College work\Mathematics\Linear Algebra\Linear transformations\One-one and onto transformations.md: 1284 words
+College work\Mathematical methods for Economics\Multivariable optimization\Quasi concavity and convexity.md: 1267 words
 Coding\Python\Sets.md: 1247 words
-College work\Mathematical methods for Economics\Multivariable optimization\Quasi concavity and convexity.md: 1244 words
 Coding\Python\Strings.md: 1237 words
 College work\Mathematics\Calculus\Differentiation\Successive differentiation\Standard forms.md: 1224 words
 Coding\Python\File writing.md: 1193 words
 College work\Statistics for Economics\Hypothesis testing\Testing for population mean.md: 1191 words
 Coding\Python\Libraries\regex.md: 1181 words
 College work\Macroeconomics\Classical macroeconomics\Interest rates in the loanable funds market.md: 1181 words
-College work\Mathematical methods for Economics\Vectors and matrices\Rank of a matrix.md: 1170 words
 Coding\Python\Dictionaries.md: 1099 words
+College work\Mathematics\Linear Algebra\Eigen stuff\Eigenvalues and eigenvectors.md: 1065 words
 College work\Mathematical methods for Economics\Multivariable functions\Chain rule and gradients.md: 1058 words
+College work\Mathematical methods for Economics\Multivariable functions\Homogenous and homothetic functions.md: 1034 words
 Coding\HTML\Forms.md: 1004 words
 Coding\Python\Project Euler algorithms.md: 1001 words
 Coding\Python\If-else statements.md: 1000 words
-College work\Mathematics\Linear Algebra\Eigen stuff\Eigenvalues and eigenvectors.md: 991 words
 College work\Mathematics\Calculus\Differentiation\Mean Value Theorems\Rolle's Theorem.md: 908 words
 College work\Macroeconomics\Classical macroeconomics\Financial markets\The demand for money.md: 895 words
 College work\Mathematical methods for Economics\Multivariable optimization\Concave and convex functions.md: 881 words
 College work\Mathematical methods for Economics\Multivariable functions\Quadratic forms.md: 877 words
 Coding\Python\Object oriented programming.md: 874 words
 College work\Mathematics\Calculus\Differentiation\Implicit differentiation.md: 873 words
+College work\Mathematical methods for Economics\Multivariable optimization\Maxima and minima.md: 848 words
 College work\Mathematical methods for Economics\Introduction\Propositions and Implications.md: 839 words
 College work\Statistics for Economics\Inferences based on two samples\Difference in means.md: 835 words
 College work\Statistics for Economics\Inferences based on two samples\Ratio of variances.md: 834 words
@@ -40,6 +42,7 @@ College work\Mathematics\Trigonometry\Domain and range of trig functions.md: 759
 College work\Microeconomics\Supply and Demand\Demand.md: 758 words
 College work\Statistics for Economics\Continuous random variables\Normal distribution.md: 757 words
 College work\Statistics for Economics\Probability\Conditional probability.md: 750 words
+College work\Mathematical methods for Economics\Multivariable functions\Partial elasticities.md: 748 words
 College work\Mathematics\Calculus\Differentiation\Higher order derivatives.md: 747 words
 College work\Statistics for Economics\Descriptive statistics\Ways to display data.md: 745 words
 College work\Mathematics\Calculus\Limits and Continuity\Asymptotes and limits at infinity.md: 740 words
@@ -50,15 +53,14 @@ Coding\Python\Subroutine.md: 712 words
 College work\Statistics for Economics\Interval estimation\Estimating population proportion.md: 709 words
 College work\Mathematical methods for Economics\Vectors and matrices\Lines and planes.md: 707 words
 College work\Statistics for Economics\Point estimates\Unbiased estimators.md: 693 words
+College work\Mathematical methods for Economics\Multivariable functions\Differentials and approximations.md: 690 words
 Coding\Python\Libraries\json.md: 675 words
 College work\Macroeconomics\Classical macroeconomics\Quantity theory of money.md: 670 words
 College work\Statistics for Economics\Discrete random variables\Hypergeometric distribution.md: 667 words
 College work\Mathematical methods for Economics\Multivariable functions\Level curves and geometric representations.md: 631 words
 College work\Mathematical methods for Economics\Introduction\Types of proofs.md: 612 words
-College work\Mathematical methods for Economics\Multivariable optimization\Maxima and minima.md: 608 words
 College work\Mathematical methods for Economics\Vectors and matrices\Cauchy-Schwarz and Triangle inequality.md: 597 words
 College work\Mathematical methods for Economics\Introduction\Set theory and logical operators.md: 596 words
-College work\Mathematical methods for Economics\Multivariable functions\Partial elasticities.md: 596 words
 College work\Mathematics\Calculus\Differentiation\Partial differentiation\Basic ideas.md: 589 words
 College work\Mathematics\Calculus\Polar coordinates\Graphing polar equations.md: 585 words
 College work\Mathematics\Calculus\Differentiation\Partial differentiation\Implicit partial differentiation.md: 575 words
@@ -70,10 +72,10 @@ College work\Mathematics\Linear Algebra\Systems of linear equations\Number of so
 College work\Microeconomics\Externalities\Public policies towards externalities.md: 542 words
 College work\Statistics for Economics\Hypothesis testing\p values.md: 538 words
 College work\Mathematical methods for Economics\Vectors and matrices\Vectors.md: 522 words
-College work\Mathematical methods for Economics\Multivariable functions\Differentials and approximations.md: 513 words
 College work\Statistics for Economics\Hypothesis testing\Basic concept.md: 502 words
 College work\Mathematical methods for Economics\Vectors and matrices\Geometric representation of vectors.md: 497 words
 College work\Mathematics\Linear Algebra\Systems of linear equations\Gaussian elimination.md: 488 words
+College work\Mathematics\Linear Algebra\Eigen stuff\Diagonalization.md: 486 words
 College work\Mathematics\Trigonometry\Unit circle and ratios.md: 484 words
 College work\Mathematics\Linear Algebra\Systems of linear equations\Key vocabulary.md: 481 words
 College work\Mathematics\Calculus\Differentiation\Trig substitution.md: 479 words
@@ -95,15 +97,14 @@ Coding\Python\Libraries\sympy.md: 438 words
 College work\Mathematics\Calculus\Differentiation\Parametric differentiation.md: 434 words
 College work\Statistics for Economics\Discrete random variables\PMF and CDF.md: 432 words
 College work\Statistics for Economics\Probability\Independence.md: 431 words
-College work\Mathematics\Calculus\Differentiation\Partial differentiation\Euler's theorem on homogenous functions.md: 416 words
 Coding\Python\Print statement.md: 415 words
+College work\Mathematics\Calculus\Differentiation\Partial differentiation\Euler's theorem on homogenous functions.md: 410 words
 College work\Mathematics\Calculus\Differentiation\Mean Value Theorems\Cauchy's Mean Value Theorem.md: 409 words
 College work\Macroeconomics\Keynesian macroeconomics\Aggregate demand.md: 406 words
-College work\Mathematics\Linear Algebra\Eigen stuff\Diagonalization.md: 405 words
 College work\Microeconomics\Externalities\Impact of externalities on markets.md: 403 words
+College work\Mathematical methods for Economics\Multivariable optimization\Local extrema.md: 402 words
 Coding\Python\CSV files.md: 399 words
 College work\Mathematics\Linear Algebra\Linear transformations\The matrix of a transformation.md: 386 words
-College work\Mathematical methods for Economics\Multivariable optimization\Local extrema.md: 380 words
 College work\Mathematical methods for Economics\Introduction\Types of implications.md: 374 words
 Coding\Python\QuantEcon\Pandas\Dataframes.md: 373 words
 Coding\Python\Libraries\tqdm.md: 367 words
@@ -223,6 +224,7 @@ College work\Mathematics\Calculus\Limits and Continuity\Limits and Continuity.md
 Coding\HTML\CSS\Body.md: 52 words
 College work\Mathematical methods for Economics\Vectors and matrices\Vectors and matrices.md: 51 words
 College work\Statistics for Economics\Discrete random variables\Discrete random variables.md: 49 words
+College work\Mathematical methods for Economics\Multivariable functions\Multivariable functions.md: 48 words
 College work\Statistics for Economics\Probability\Probability.md: 48 words
 Coding\HTML\CSS\CSS.md: 47 words
 College work\College work.md: 47 words
@@ -236,7 +238,6 @@ College work\Mathematical methods for Economics\Functions of one variable\Functi
 Coding\Python\Libraries\time.md: 44 words
 College work\Mathematics\Calculus\Differentiation\Partial differentiation\Partial differentiation.md: 44 words
 College work\Statistics for Economics\Joint probability distributions\Joint probability distributions.md: 44 words
-College work\Mathematical methods for Economics\Multivariable functions\Multivariable functions.md: 43 words
 College work\Mathematics\Calculus\Polar coordinates\Polar coordinates.md: 43 words
 College work\Statistics for Economics\Descriptive statistics\Descriptive statistics.md: 42 words
 College work\Mathematics\Linear Algebra\Systems of linear equations\Systems of linear equations.md: 41 words
@@ -283,4 +284,4 @@ Coding\Python\QuantEcon\SciPy\Statistics.md: 7 words
 College work\Macroeconomics\Keynesian macroeconomics\IS-LM model\IS-LM model.md: 4 words
 
 ---
-Total words in all Markdown files: 107220
+Total words in all Markdown files: 109250

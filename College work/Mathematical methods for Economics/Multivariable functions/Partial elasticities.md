@@ -10,7 +10,7 @@ Quick access:
 - [[#Elasticity of substitution|Elasticity of substitution]]
 
 ## Partial elasticities
-We know that for regular elasticities, the elasticity of $y$ wrt $x$ can be written as $El_{x}y= \dfrac{x}{y} \times \dfrac{dy}{dx}$. This generalizes to functions of many variables too. If we have $z=f(x_{1},x_{2},\dots,x_{n})$, then *the elasticity of $z$ wrt $x_{i}$ is given by* $El_{x_{i}}z = \dfrac{x_{i}}{z} \times \dfrac{ \partial z }{ \partial x_{i} }$. Just remember we have to differentiate $z$ wrt $x_{i}$ and the other term is in the opposite order, so it becomes $x_{i}$ by $z$. *Alternatively, you can simplify this with logarithms to get* $El_{x_{i}}z = \dfrac{{d \ln z}}{d \ln x_{i}}$.
+We know that for regular elasticities, the elasticity of $y$ wrt $x$ can be written as $El_{x}y= \dfrac{x}{y} \times \dfrac{dy}{dx}$. This generalizes to functions of many variables too. If we have $z=f(x_{1},x_{2},\dots,x_{n})$, then *the elasticity of $z$ wrt $x_{i}$ is given by* $El_{x_{i}}z = \dfrac{x_{i}}{z} \times \dfrac{ \partial z }{ \partial x_{i} }$. Just remember we have to differentiate $z$ wrt $x_{i}$ and the other term is in the opposite order, so it becomes $x_{i}$ by $z$. *Alternatively, you can simplify this with logarithms to get* $El_{x_{i}}z =\dfrac{ \partial \ln z }{ \partial x_{i} }$.
 
 ## Elasticities of composite functions
 Just like differentiating composite functions, we must follow the chain rule here too. If we have $z=F(x_{1},x_{2},\dots,x_{n})$ and $x_{i}=f_{i}(t_{1},t_{2},\dots,t_{m})$, $z$ is the main variable, $x$ is the intermediate variable and $t$ is the basic variable.
@@ -40,4 +40,11 @@ Ans) Notice that this is a Cobb-Douglas function and *these functions always hav
 $MRS_{yx}= \dfrac{F_{1}'(x,y)}{F_{2}'(x,y)}$. Solving and cancelling gives us $\dfrac{\alpha}{\beta} \cdot \dfrac{y}{x}$.
 We can take log on both sides. Therefore, $\ln MRS_{yx}=\ln\left( \dfrac{\alpha}{\beta} \right) + \ln\left( \dfrac{y}{x} \right)$ $\implies$ $\ln\left( \dfrac{y}{x} \right)=\ln MRS_{yx} + \ln\left( \dfrac{\alpha}{\beta} \right)$.
 We know $\sigma_{yx}= \dfrac{d\ln\left( \dfrac{y}{x} \right)}{d\ln(MRS_{yx})}$. Differentiating wrt $\ln MRS_{yx}$ gives us $\dfrac{d\ln\left( \dfrac{y}{x} \right)}{d\ln(MRS_{yx})}=1$. Therefore, the elasticity of substitution is 1.
+<div style='border-top: 1px solid; width: 100%; margin-top:3px; margin-bottom: 0px;'></div>
+
+Q2) Find elasticities of $y$ and $z$ wrt $x$ for $z = e^{ax+by}$, $x^{a}y^{b}z^{c}=1$.
+?
+Ans) **Note that all $x,y,z$ are implicit functions of each other here.** Taking $\ln$ on both sides for both equations, we get $\ln z=ax+by$, $a\ln x+b\ln y+c\ln z=0$. Differentiate both equations wrt $x$ (since we want elasticity wrt $x$). This gives us $z_{x}' \cdot \dfrac{1}{z} = a+by_{x}'$ and $\dfrac{a}{x}+\dfrac{b}{y}y_{x}'+\dfrac{c}{z}z_{x}'=0$.  Sub the value of $z_{x}'$ in the second equation. The $z$ cancels and we get $\dfrac{a}{x}+y_{x}'\left[ \dfrac{b}{y} +cb \right] + ca=0$. Simplifying, we get $y_{x}'\left[ \dfrac{{b+cby}}{y} \right]= \dfrac{{-acx-a}}{x}$. Therefore, $y_{x}'= \dfrac{{-ay[cx+1]}}{bx[cy+1]}$. We know $El_{x}y=y_{x}' \cdot \dfrac{x}{y}$. Therefore, $El_{x}y= \dfrac{{-a[cx+1]}}{b[cy+1]}$.
+.
+We know $El_{x}z=z_{x}' \cdot \dfrac{x}{z}$. We already have $z_{x}' \cdot \dfrac{1}{z}$. Therefore, $El_{x}z= x[a+by_{x}']$. Sub the value of $y_{x}'$. We get $El_{x}z=x\left[ a+b \dfrac{-ay(cx+1)}{bx(cy+1)} \right]$ $=ax\left[ 1 - \dfrac{y(cx+1)}{x(cy+1)} \right]$ $=ax\left[ \dfrac{{xcy+x-xcy-y}}{x(cy+1)} \right]$ $=ax\left[ \dfrac{{x-y}}{x(cy+1)} \right]$ $=\dfrac{a[x-y]}{cy+1}$.
 <div style='border-top: 1px solid; width: 100%; margin-top:3px; margin-bottom: 0px;'></div>
