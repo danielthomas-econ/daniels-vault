@@ -82,7 +82,6 @@
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigen",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigenstuff",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Vector spaces",
-    "//College work/College work/Mathematical methods for Economics",
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Multivariable functions",
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/More on differentiation",
     "//College work/College work/Mathematical methods for Economics/College work/Mathematical methods for Economics/Polynomials, Powers and Exponentials",
@@ -91,7 +90,9 @@
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Eigen stuff",
     "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra/College work/Mathematics/Linear Algebra/Systems of linear equations",
     "//College work/College work/Mathematics",
-    "//College work/College work/Mathematics/College work/Mathematics/Calculus/College work/Mathematics/Calculus/Differentiation"
+    "//College work/College work/Mathematics/College work/Mathematics/Calculus/College work/Mathematics/Calculus/Differentiation",
+    "//College work/College work/Mathematics/College work/Mathematics/Linear Algebra",
+    "//College work/College work/Mathematical methods for Economics"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",

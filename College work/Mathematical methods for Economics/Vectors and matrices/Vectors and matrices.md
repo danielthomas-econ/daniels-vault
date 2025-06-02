@@ -11,4 +11,4 @@ color: var(--mk-color-purple)
 
 %% End Waypoint %%
 
-A lot of the stuff here would've been covered in [[Linear Algebra]] notes
+A lot of the stuff here would've been covered in [[Linear Algebra]] notes. Topics like [[Linear independence]] and [[Eigen stuff]] have been covered in LA notes, not here.

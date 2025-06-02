@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College work/Mathematical methods for Economics/Multivariable functions/Homogenous and homothetic functions.md",
+                "file": "College work/Mathematics/Linear Algebra/Vector spaces/Linear independence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homogenous and homothetic functions"
+              "title": "Linear independence"
             }
           },
           {
@@ -43,20 +43,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "639d5c2d997a6c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College work/Mathematics/Calculus/Differentiation/Partial differentiation/Euler's theorem on homogenous functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Euler's theorem on homogenous functions"
             }
           }
         ]
@@ -123,7 +109,7 @@
             }
           },
           {
-            "id": "9bd6d4ef017d7668",
+            "id": "b06aa695020cb683",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -193,16 +179,6 @@
             }
           },
           {
-            "id": "a876b33064f48b0d",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
-            }
-          },
-          {
             "id": "eccf5835aecf2460",
             "type": "leaf",
             "state": {
@@ -242,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -263,29 +239,35 @@
   },
   "active": "e25d2d9d8ec1291f",
   "lastOpenFiles": [
+    "College work/Mathematics/Linear Algebra/Vector spaces/Basis and dimension.md",
+    "College work/Mathematics/Linear Algebra/Vector spaces/Linear independence.md",
+    "College work/Mathematics/Linear Algebra/Vector spaces/Linear combinations and span.md",
+    "College work/Mathematics/Linear Algebra/Vector spaces/Subspaces.md",
+    "College work/Mathematics/Linear Algebra/Vector spaces/Rules for vector spaces.md",
+    "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
+    "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
+    "Images/WhatsApp Image 2025-06-02 at 10.40.48_73050db9.jpg",
+    "Images/WhatsApp Image 2025-06-02 at 09.21.06_774e38c5.jpg",
+    "Untitled.md",
+    "WhatsApp Image 2025-06-02 at 10.40.48_73050db9.jpg",
+    "WhatsApp Image 2025-06-02 at 09.21.06_774e38c5.jpg",
+    "College work/Mathematics/Calculus/Differentiation/Partial differentiation/Euler's theorem on homogenous functions.md",
+    "College work/Mathematical methods for Economics/Multivariable functions/Homogenous and homothetic functions.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Partial elasticities.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Chain rule and gradients.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Homogenous and homothetic functions.md",
     "College work/Mathematical methods for Economics/Multivariable optimization/Convex sets.md",
     "Images/Pasted image 20250601114754.png",
-    "College work/Mathematics/Calculus/Differentiation/Partial differentiation/Euler's theorem on homogenous functions.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Differentials and approximations.md",
     "Pasted image 20250601114754.png",
     "College work/Mathematical methods for Economics/Vectors and matrices/Rank of a matrix.md",
     "College work/Mathematical methods for Economics/Multivariable optimization/Maxima and minima.md",
     "College work/Mathematical methods for Economics/Multivariable optimization/Local extrema.md",
     "College work/Mathematical methods for Economics/Multivariable optimization/Quasi concavity and convexity.md",
-    "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
-    "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
     "Images/WhatsApp Image 2025-05-31 at 10.46.55_53ea20e9.jpg",
     "Images/Pasted image 20250531095248.png",
     "Images/6pJc7.jpg",
     "Images/5CQqu.jpg",
-    "WhatsApp Image 2025-05-31 at 10.46.55_53ea20e9.jpg",
     "College work/Mathematical methods for Economics/Multivariable optimization/Concave and convex functions.md",
-    "Pasted image 20250531095248.png",
-    "6pJc7.jpg",
-    "5CQqu.jpg",
     "plot.py",
     "College work/Mathematical methods for Economics/Multivariable optimization/Topology in the plane.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Quadratic forms.md",
@@ -294,12 +276,7 @@
     "College work/Mathematical methods for Economics/Multivariable optimization/Extreme value theorem.md",
     "College work/Mathematics/Linear Algebra/Systems of linear equations/Key vocabulary.md",
     "College work/Mathematical methods for Economics/Vectors and matrices/Lines and planes.md",
-    "College work/Mathematical methods for Economics/Vectors and matrices/Geometric representation of vectors.md",
-    "College work/Mathematical methods for Economics/Vectors and matrices/Vectors.md",
-    "College work/Mathematical methods for Economics/Vectors and matrices/Geometric representation of vectors .md",
     "z_obsidian hotkeys.ahk",
-    "College work/Mathematics/Linear Algebra/Systems of linear equations/Gaussian elimination.md",
-    "College work/Mathematics/Linear Algebra/Systems of linear equations/Elementary row transformations.md",
     "obsidian hotkeys.ahk",
     "obsidian codeblock.ahk",
     "word_counts.txt",

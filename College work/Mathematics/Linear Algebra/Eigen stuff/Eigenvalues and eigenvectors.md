@@ -27,7 +27,7 @@ The word 'eigen' means *proper* in German. Graphically, **multiplying a matrix b
 ## Eigenspace
 Let $\lambda$ be an eigenvalue of a $m\times n$ matrix $A$. The **set of all eigenvectors of $A$ corresponding to the eigenvalue $\lambda$**, defined as $E_{\lambda} = \{X \in \mathbb{R}^{n}: AX=\lambda X\}$ is called the eigenspace of $A$ corresponding to $\lambda$.
 
-Note that if $X$ is an eigenvector, then $cX$ ($c \in R, \ne 0$) is also an eigenvector. Therefore, *to get the set of all eigenvectors, we simply multiply each eigenvector by a non-zero scalar.* Even though an eigenvector can never be zero by definition, *we include the zero vector in every eigenspace.* This is done to ensure that the eigenspace will be a subspace, which we'll see later in properties of subspaces. 
+Note that if $X$ is an eigenvector, then $cX$ ($c \in R, \ne 0$) is also an eigenvector. Therefore, *to get the set of all eigenvectors, we simply multiply each eigenvector by a non-zero scalar.* Even though an eigenvector can never be zero by definition, *we include the zero vector in every eigenspace.* This is done to ensure that the eigenspace will be a [[Subspaces|subspace.]]
 
 ## Finding eigenvalues and vectors
 If $X$ is an eigenvector of $A$ corresponding to an eigenvalue $\lambda$, then by definition we know $AX=\lambda X$. We can simplify this as
