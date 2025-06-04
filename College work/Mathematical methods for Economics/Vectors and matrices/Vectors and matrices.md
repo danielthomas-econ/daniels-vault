@@ -3,6 +3,7 @@ color: var(--mk-color-purple)
 ---
 %% Begin Waypoint %%
 - [[Cauchy-Schwarz and Triangle inequality]]
+- [[Cramer's rule]]
 - [[Geometric representation of vectors]]
 - [[Leontief input output model]]
 - [[Lines and planes]]

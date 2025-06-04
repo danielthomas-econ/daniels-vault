@@ -77,13 +77,11 @@ Define the bordered Hessian determinants as $D_{r}(x)$, $r=1,\dots,n$.
 For *quasi-concavity,*
 Necessary condition: $(-1)^{r}D_{r}(x) \geq 0$
 Sufficient condition: $(-1)^{r} D_{r}(x) > 0$
-for $r=2,\dots,n+1$ and all $x \in S$ (convex set domain). **Note that we do not test for $r=1$**, **since that is always by definition zero and would make the sufficiency condition always fail.** 
+for $r=2,\dots,n+1$ and all $x \in S$ (convex set domain). **Note that we do not test for $r=1$**, **since that is always by definition zero and would make the sufficiency condition always fail.** Therefore, what we'd normally take as $D_{2}$ is now $D_{1}$. Therefore, $D_{1}$ for a bordered Hessian is $\begin{vmatrix}0 & f_{1}' \\ f_{1}' & f_{11}''\end{vmatrix}$.
 
 In other words:
 Necessary condition: Bordered Hessian is negative semidefinite
 Sufficient condition: Bordered Hessian is negative definite
-
-
 
 
 

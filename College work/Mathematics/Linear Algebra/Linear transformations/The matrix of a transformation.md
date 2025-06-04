@@ -7,7 +7,7 @@ Quick access:
 - [[#The matrix|The matrix]]
 
 ## The matrix
-Let $V,W$ be $n,m$ dim vector spaces. Let $B=\{v_{1},v_{2},\dots,v_{n}\}$$, $C=\{w_{1},w_{2},\dots,w_{n}\}$ be ordered bases of $V$ and $W$. Let $L:V\to W$ be a LT. Then, $\exists$ a unique matrix $A$ of order $m\times n$ (order of codomain $\times$ order of domain) s.t. $[L(v)]_{C}=A[v]_{B}$. *The columns of $A$ is the coordinate vector of $L(v_{i})$ wrt $C$*, *so each column is $[L(v_{i})]_{C}$*.
+Let $V,W$ be $n,m$ dim vector spaces. Let $B=\{v_{1},v_{2},\dots,v_{n}\}$, $C=\{w_{1},w_{2},\dots,w_{n}\}$ be ordered bases of $V$ and $W$. Let $L:V\to W$ be a LT. Then, $\exists$ a unique matrix $A$ of order $m\times n$ (order of codomain $\times$ order of domain) s.t. $[L(v)]_{C}=A[v]_{B}$. *The columns of $A$ is the coordinate vector of $L(v_{i})$ wrt $C$*, *so each column is $[L(v_{i})]_{C}$*.
 
 If the vector spaces are $\mathbb{R}^n$ and $\mathbb{R}^m$ and the bases are standard ordered basis, then $L(v_{i})=Av$.
 

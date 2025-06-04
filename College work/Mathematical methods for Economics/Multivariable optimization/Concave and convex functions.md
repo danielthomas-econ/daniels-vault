@@ -55,7 +55,7 @@ The conditions for $f_{11}''$ and $f_{22}''$ come from **assessing the semidefin
 ### Sufficient conditions for global extrema
 Just like how concave $\implies$ $f''(x_{0}) < 0$ $\implies$ maxima (if $x_{0}$ is a stationary point) in the single variable case, we can say the same for multivariable optimization.
 
-Let $(x_{0},y_{0})$ is an interior stationary point of a function $f(x,y)$ in a convex domain $S$. Let $f_{11}'' = A, f_{12}''=f_{21}''=B$ and $f_{22}''=C$. Then,
+Let $(x_{0},y_{0})$ is an interior stationary point of a function $f(x,y)$ **in a convex domain** $S$. Let $f_{11}'' = A, f_{12}''=f_{21}''=B$ and $f_{22}''=C$. Then,
 $$\begin{align}
 A \leq 0, C \leq 0, AC  - B^{2} \geq 0 &\implies (x_{0},y_{0}) \text{ is a MAX for }f(x,y) \text{ in }S \\
 A \geq 0, C \geq 0, AC-B^{2} \geq 0 &\implies (x_{0},y_{0}) \text{ is a MIN for } f(x,y) \text{ in } S

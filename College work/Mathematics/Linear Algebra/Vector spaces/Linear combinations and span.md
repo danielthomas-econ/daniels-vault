@@ -33,7 +33,7 @@ Example: Let $S=\left\{[1,0],[0,1]\right\}\subset \mathbb{R}^{2}$. Then, $\text{
 6) The spanning set of an eigenspace is a set containing its corresponding eigenvector(s).
 
 ### Finding span
-While we can use scalars $c_{1},c_{2}\dots,c_{n} \in \mathbb{R}$ to find span, it can get complicated if there are a lot of vectors. **The best method to find span is to put the vectors as rows in a matrix and find the row space of the matrix.** Since the row space is the set of all linear combinations of the rows of a matrix, it is equivalent to span.
+While we can use scalars $c_{1},c_{2}\dots,c_{n} \in \mathbb{R}$ to find span, it can get complicated if there are a lot of vectors. **The best method to find span is to put the vectors as rows in a matrix and find the row space of the matrix.** Since the [[Row space of a matrix|row space]] is the set of all linear combinations of the rows of a matrix, it is equivalent to span.
 
 Another benefit with putting the vectors in a matrix is that *we can reduce the matrix to RREF to get many zeros. This does not change the row space.* Therefore, we end up with a much simpler expression of the span since most elements have become zeros.
 

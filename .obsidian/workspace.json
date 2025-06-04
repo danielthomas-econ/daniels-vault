@@ -11,14 +11,12 @@
             "id": "e25d2d9d8ec1291f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "College work/Mathematics/Linear Algebra/Vector spaces/Linear independence.md",
-                "mode": "source",
-                "source": false
+                "path": "College work"
               },
               "icon": "lucide-file",
-              "title": "Linear independence"
+              "title": "College work"
             }
           },
           {
@@ -77,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +107,7 @@
             }
           },
           {
-            "id": "b06aa695020cb683",
+            "id": "ffa52986a4a1bfcc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -123,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.50152587890625,
-    "collapsed": true
+    "width": 342.50152587890625
   },
   "right": {
     "id": "7d6d50fc20af3975",
@@ -222,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,9 +235,18 @@
   },
   "active": "e25d2d9d8ec1291f",
   "lastOpenFiles": [
-    "College work/Mathematics/Linear Algebra/Vector spaces/Basis and dimension.md",
-    "College work/Mathematics/Linear Algebra/Vector spaces/Linear independence.md",
+    "College work/Mathematics/Linear Algebra/Linear transformations/The matrix of a transformation.md",
+    "College work/Mathematics/Linear Algebra/Linear transformations/Basic ideas.md",
+    "College work/Mathematical methods for Economics/Multivariable functions/Homogenous and homothetic functions.md",
+    "College work/Mathematical methods for Economics/Multivariable optimization/Concave and convex functions.md",
+    "College work/Mathematical methods for Economics/Multivariable optimization/Quasi concavity and convexity.md",
+    "College work/Mathematical methods for Economics/Vectors and matrices/Leontief input output model.md",
+    "College work/Mathematical methods for Economics/Vectors and matrices/Cramer's rule.md",
+    "College work/Mathematics/Linear Algebra/Systems of linear equations/Number of solutions to a system.md",
     "College work/Mathematics/Linear Algebra/Vector spaces/Linear combinations and span.md",
+    "College work/Mathematics/Linear Algebra/Vector spaces/Linear independence.md",
+    "College work/Mathematics/Linear Algebra/Systems of linear equations/Row space of a matrix.md",
+    "College work/Mathematics/Linear Algebra/Vector spaces/Basis and dimension.md",
     "College work/Mathematics/Linear Algebra/Vector spaces/Subspaces.md",
     "College work/Mathematics/Linear Algebra/Vector spaces/Rules for vector spaces.md",
     "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
@@ -252,7 +257,6 @@
     "WhatsApp Image 2025-06-02 at 10.40.48_73050db9.jpg",
     "WhatsApp Image 2025-06-02 at 09.21.06_774e38c5.jpg",
     "College work/Mathematics/Calculus/Differentiation/Partial differentiation/Euler's theorem on homogenous functions.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Homogenous and homothetic functions.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Partial elasticities.md",
     "College work/Mathematical methods for Economics/Multivariable functions/Chain rule and gradients.md",
     "College work/Mathematical methods for Economics/Multivariable optimization/Convex sets.md",
@@ -262,20 +266,12 @@
     "College work/Mathematical methods for Economics/Vectors and matrices/Rank of a matrix.md",
     "College work/Mathematical methods for Economics/Multivariable optimization/Maxima and minima.md",
     "College work/Mathematical methods for Economics/Multivariable optimization/Local extrema.md",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Quasi concavity and convexity.md",
     "Images/WhatsApp Image 2025-05-31 at 10.46.55_53ea20e9.jpg",
     "Images/Pasted image 20250531095248.png",
     "Images/6pJc7.jpg",
     "Images/5CQqu.jpg",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Concave and convex functions.md",
     "plot.py",
     "College work/Mathematical methods for Economics/Multivariable optimization/Topology in the plane.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Quadratic forms.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Partial derivatives with many variables.md",
-    "College work/Mathematical methods for Economics/Vectors and matrices/Cauchy-Schwarz and Triangle inequality.md",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Extreme value theorem.md",
-    "College work/Mathematics/Linear Algebra/Systems of linear equations/Key vocabulary.md",
-    "College work/Mathematical methods for Economics/Vectors and matrices/Lines and planes.md",
     "z_obsidian hotkeys.ahk",
     "obsidian hotkeys.ahk",
     "obsidian codeblock.ahk",
