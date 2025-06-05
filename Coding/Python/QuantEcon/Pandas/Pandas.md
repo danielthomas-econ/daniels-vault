@@ -4,7 +4,7 @@ color: var(--mk-color-yellow)
 %% Begin Waypoint %%
 - [[Dataframes]]
 - [[Requests]]
-- [[Series]]
+- [[Coding/Python/QuantEcon/Pandas/Series]]
 - [[Useful methods]]
 
 %% End Waypoint %%

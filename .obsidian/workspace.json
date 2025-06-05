@@ -11,12 +11,14 @@
             "id": "e25d2d9d8ec1291f",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "College work"
+                "file": "Academics/Macroeconomics/Keynesian macroeconomics/Government sector.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "College work"
+              "title": "Government sector"
             }
           },
           {
@@ -107,7 +109,7 @@
             }
           },
           {
-            "id": "ffa52986a4a1bfcc",
+            "id": "5631b5ba90492d7b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -121,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.50152587890625
+    "width": 342.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "7d6d50fc20af3975",
@@ -215,11 +218,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,51 +239,51 @@
   },
   "active": "e25d2d9d8ec1291f",
   "lastOpenFiles": [
-    "College work/Mathematics/Linear Algebra/Linear transformations/The matrix of a transformation.md",
-    "College work/Mathematics/Linear Algebra/Linear transformations/Basic ideas.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Homogenous and homothetic functions.md",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Concave and convex functions.md",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Quasi concavity and convexity.md",
-    "College work/Mathematical methods for Economics/Vectors and matrices/Leontief input output model.md",
-    "College work/Mathematical methods for Economics/Vectors and matrices/Cramer's rule.md",
-    "College work/Mathematics/Linear Algebra/Systems of linear equations/Number of solutions to a system.md",
-    "College work/Mathematics/Linear Algebra/Vector spaces/Linear combinations and span.md",
-    "College work/Mathematics/Linear Algebra/Vector spaces/Linear independence.md",
-    "College work/Mathematics/Linear Algebra/Systems of linear equations/Row space of a matrix.md",
-    "College work/Mathematics/Linear Algebra/Vector spaces/Basis and dimension.md",
-    "College work/Mathematics/Linear Algebra/Vector spaces/Subspaces.md",
-    "College work/Mathematics/Linear Algebra/Vector spaces/Rules for vector spaces.md",
-    "College work/Mathematics/Linear Algebra/Eigen stuff/Diagonalization.md",
-    "College work/Mathematics/Linear Algebra/Eigen stuff/Eigenvalues and eigenvectors.md",
+    "Images/Pasted image 20250605092109.png",
+    "Academics/Macroeconomics/Classical macroeconomics/Employment.md",
+    "Academics/Macroeconomics/Classical macroeconomics/Production.md",
+    "Academics/Macroeconomics/Classical macroeconomics/Interest rates in the loanable funds market.md",
+    "Academics/Macroeconomics/Classical macroeconomics/Quantity theory of money.md",
+    "Academics/Mathematics/Linear Algebra/Vector spaces/Linear independence.md",
+    "Academics/Mathematics/Linear Algebra/Systems of linear equations/Number of solutions to a system.md",
+    "Pasted image 20250605092109.png",
+    "Academics/Mathematical methods for Economics/Vectors and matrices/Rank of a matrix.md",
+    "Academics/Macroeconomics/Classical macroeconomics/Financial markets/The demand for money.md",
+    "Academics/Macroeconomics/Classical macroeconomics/Financial markets/Interest rates in the money market.md",
+    "Academics/Macroeconomics/Classical macroeconomics/Financial markets/Money multiplier.md",
+    "Academics/Macroeconomics/Keynesian macroeconomics/Government sector.md",
+    "Academics/Macroeconomics/Classical macroeconomics/Financial markets/Bonds.md",
+    "Academics/Macroeconomics/Measuring the national economy/Formulae.md",
+    "Academics/Mathematics/Linear Algebra/Linear transformations/The matrix of a transformation.md",
+    "Academics/Mathematics/Linear Algebra/Linear transformations/Basic ideas.md",
+    "Academics/Mathematical methods for Economics/Multivariable functions/Homogenous and homothetic functions.md",
+    "Academics/Mathematical methods for Economics/Multivariable optimization/Concave and convex functions.md",
+    "Academics/Mathematical methods for Economics/Multivariable optimization/Quasi concavity and convexity.md",
+    "Academics/Mathematical methods for Economics/Vectors and matrices/Leontief input output model.md",
+    "Academics/Mathematical methods for Economics/Vectors and matrices/Cramer's rule.md",
+    "Academics/Mathematics/Linear Algebra/Vector spaces/Linear combinations and span.md",
+    "Academics/Mathematics/Linear Algebra/Systems of linear equations/Row space of a matrix.md",
+    "Academics/Mathematics/Linear Algebra/Vector spaces/Basis and dimension.md",
+    "Academics/Mathematics/Linear Algebra/Vector spaces/Subspaces.md",
+    "Academics/Mathematics/Linear Algebra/Vector spaces/Rules for vector spaces.md",
     "Images/WhatsApp Image 2025-06-02 at 10.40.48_73050db9.jpg",
     "Images/WhatsApp Image 2025-06-02 at 09.21.06_774e38c5.jpg",
-    "Untitled.md",
     "WhatsApp Image 2025-06-02 at 10.40.48_73050db9.jpg",
     "WhatsApp Image 2025-06-02 at 09.21.06_774e38c5.jpg",
-    "College work/Mathematics/Calculus/Differentiation/Partial differentiation/Euler's theorem on homogenous functions.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Partial elasticities.md",
-    "College work/Mathematical methods for Economics/Multivariable functions/Chain rule and gradients.md",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Convex sets.md",
     "Images/Pasted image 20250601114754.png",
-    "College work/Mathematical methods for Economics/Multivariable functions/Differentials and approximations.md",
     "Pasted image 20250601114754.png",
-    "College work/Mathematical methods for Economics/Vectors and matrices/Rank of a matrix.md",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Maxima and minima.md",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Local extrema.md",
     "Images/WhatsApp Image 2025-05-31 at 10.46.55_53ea20e9.jpg",
     "Images/Pasted image 20250531095248.png",
     "Images/6pJc7.jpg",
-    "Images/5CQqu.jpg",
     "plot.py",
-    "College work/Mathematical methods for Economics/Multivariable optimization/Topology in the plane.md",
     "z_obsidian hotkeys.ahk",
     "obsidian hotkeys.ahk",
     "obsidian codeblock.ahk",
     "word_counts.txt",
     "wordcount.py",
     "New Text Document.txt",
-    "College work/Mathematical methods for Economics/Vectors and matrices",
-    "College work/Mathematics/Linear Algebra/Eigen stuff",
+    "Academics/Mathematical methods for Economics/Vectors and matrices",
+    "Academics/Mathematics/Linear Algebra/Eigen stuff",
     "Readings",
     "Untitled.canvas",
     "Grade 12/Economics/Untitled.canvas",

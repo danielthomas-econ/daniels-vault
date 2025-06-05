@@ -32,5 +32,5 @@ def count_words_in_md_files(directories, output_file='word_counts.txt'):
         out_file.write(summary + '\n')
 
 # Specify the folders to scan
-folders_to_scan = ['Coding', 'College work']
+folders_to_scan = ['Coding', 'Academics']
 count_words_in_md_files(folders_to_scan)
